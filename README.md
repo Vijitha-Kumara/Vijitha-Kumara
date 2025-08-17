@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @Vijitha-Kumara
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @Vijith Kumara Ranamuka
+I am full stack engineer+ 10 years experience
 
-<!---
-Vijitha-Kumara/Vijitha-Kumara is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
